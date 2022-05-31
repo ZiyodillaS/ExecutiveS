@@ -171,9 +171,7 @@ color: #505050;
 /* Dream end */
 
 /* University start */
-.university{
-    margin-bottom: 120px;
-}
+
 .university-top {
     background: #FAFAFA;
 }
@@ -205,6 +203,7 @@ color: #505050;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 59px;
 }
 
 .university-tiny {
@@ -225,9 +224,11 @@ color: #505050;
 /* University end */
 
 /* Service start */
+
 .service{
     width: 949px;
     margin: 0 auto;
+    padding-top: 122px;
 }
 .service-section {
     background: #f2f2f2;
@@ -255,7 +256,8 @@ color: #505050;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 221px;
+    padding-bottom: 126px;
+
 }
 
 .service-list-bottom {
@@ -681,6 +683,7 @@ color: #373737;
 .country-top{
     width: 969px;
     margin: 0 auto;
+    padding-top: 98px;
 }
 
 .country-title {
@@ -736,7 +739,7 @@ color: #373737;
     justify-content: center;
     align-items: center;
     margin-left: 25px;
-    margin-bottom: 136px;
+    padding-bottom: 136px;
 }
 
 .country-tiny {
